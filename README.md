@@ -9,10 +9,30 @@ Step 1: Open Blooket and go to inspect.
 
 
 
+
+
+
+
 Step 2: Copy the code at the bottom of the page.
+
+
+
+
 Step 3: Paste the code in the console after inspecting the page.
+
+
+
+
 Step 4: type in 500 into the box that appears.
+
+
+
+
 Step 5: Re-load the page.
+
+
+
+
 Step 6: Enjoy!
 
 
